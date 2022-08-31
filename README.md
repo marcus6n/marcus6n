@@ -1,10 +1,7 @@
 ### Olá, eu sou o Marcus/ Hi there, I'm Marcus :D
 
-<div align="center">
-  <a href="https://github.com/marcus6n">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=marcus6n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus6n&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   ![marcus6n's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus6n&show_icons=true&theme=dracula)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus6n&layout=compact&theme=dracula)](https://github.com/marcus6n)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
