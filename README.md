@@ -1,4 +1,8 @@
-### Olá, eu sou o Marcus/ Hi there, I'm Marcus :D
+### <!--Olá, eu sou o Marcus/ Hi there, I'm Marcus :D-->
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone+;I'm+Marcus+%3AD;Today+I'm++Javascript+Fullstack+Developer;Welcome+to+my+GitHub+profile;Check+out+the+projects!)](https://git.io/typing-svg)
+  
+###
 
 <div align="center">
   <a href="https://github.com/marcus6n">
