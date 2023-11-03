@@ -1,6 +1,6 @@
 ### <!--Olá, eu sou o Marcus/ Hi there, I'm Marcus :D-->
 
-<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone+;I'm+Marcus+%3AD;Today+I'm++JavaScript+Full+stack+Developer;Welcome+to+my+GitHub+profile;Check+out+the+projects!)](https://github.com/marcus6n/) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone+;I'm+Marcus+%3AD;Today+I'm++Java+Developer;Welcome+to+my+GitHub+profile;Check+out+the+projects!)](https://github.com/marcus6n/)
   
 ###
 
@@ -24,10 +24,8 @@
  ##
  
  <div align="center">
-  <a href="https://instagram.com/marcusdeoliveiran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marcus6n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcusdeoliveiraneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus6n/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/marcus6n/marcus6n/blob/output/github-contribution-grid-snake.svg)
   
 </div>
