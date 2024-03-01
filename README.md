@@ -1,6 +1,6 @@
 <!-- Olá, eu sou o Marcus / Hi there, I'm Marcus :D -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone+;I'm+Marcus+%3AD;Today+I'm++Java+Developer;Welcome+to+my+GitHub+profile;Check+out+the+projects!)](https://github.com/marcus6n/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone+;I'm+Marcus+%3AD;Today+I'm++Front+End+Developer;Welcome+to+my+GitHub+profile;Check+out+the+projects!)](https://github.com/marcus6n/)
 
 <div align="center">
   <a href="https://github.com/marcus6n">
