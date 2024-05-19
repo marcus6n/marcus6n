@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=marcus6n&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </a>
 
-<p>Trabalhando na <a href="https://github.com/sepinf-inc/">@sepinf-inc</a><br/> Eu sou desenvolvedor Front End</p>
+<p>Trabalhando na <a href="https://github.com/sepinf-inc/">@sepinf-inc</a><br/> Eu sou Engenheiro de Software</p>
 
 <div align="left">
   <a href="https://instagram.com/marcus6n" target="_blank">
